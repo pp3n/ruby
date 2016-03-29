@@ -31,8 +31,8 @@ elsif choice == 3
 elsif choice ==4
 	puts "Your output is #{sub(first_number, second_number)}"
 else
-	puts "Select a valid choice again!"
-end
+	puts "Select a valid choice again!
+"end
 
 			
 
